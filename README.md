@@ -1,0 +1,2 @@
+# goisp
+lisp in go
